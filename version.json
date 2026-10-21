@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "0.1.4",
-  "apkUrl": "https://github.com/erickoh33/tuition-reader-updates/releases/download/v0.1.4/TuitionReader-0.1.4.apk",
-  "notes": "Tuition Reader 0.1.4: the app can now check for updates by itself."
+  "versionCode": 6,
+  "versionName": "0.1.5",
+  "apkUrl": "https://github.com/erickoh33/tuition-reader-updates/releases/download/v0.1.5/TuitionReader-0.1.5-beta.apk",
+  "notes": "Tuition Reader 0.1.5: new bold cartoon look (Point & Read!) and a Beta tester switch in Settings."
 }
